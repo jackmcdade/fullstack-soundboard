@@ -2,8 +2,6 @@
 /public/hot
 /public/storage
 /public/vendor/statamic
-/public/css*
-/public/js
 /storage/*.key
 /resources/users*
 /vendor
